@@ -1,1 +1,3 @@
 #This is the first line under head branch
+
+#Modified line of buffer file under f2
